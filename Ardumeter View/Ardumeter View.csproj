@@ -86,9 +86,6 @@
     <None Include="Resources\gear.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\omega.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\information.png" />
   </ItemGroup>
   <ItemGroup>
