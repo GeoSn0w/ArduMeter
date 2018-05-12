@@ -9,3 +9,6 @@ Made just for fun. I am sure it can be improved in many ways, I am not a huge fa
 It pretty much looks like this:
 
 ![screencapture](https://user-images.githubusercontent.com/15067741/39961053-2a19ceaa-5626-11e8-8fda-1c099a2414fd.PNG)
+
+### Contact me:
+Twitter: @FCE365
